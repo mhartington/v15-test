@@ -1,0 +1,7 @@
+{
+  "name": "tmp-blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
